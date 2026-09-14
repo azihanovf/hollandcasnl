@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://holland-nl-new.onrender.com/sitemap.xml
